@@ -1,0 +1,26 @@
+div    { width: 718px ;
+       height: 419px ;
+       align-items: center;
+       justify-content: center;
+       padding: 20px; }
+
+button {background-color: yellow;
+        width: 205px;
+        height: 47px;
+        border-radius: 10px; 
+        margin-left: 462px}
+
+input  { width: 616px;
+        font-size: 50px; }
+body   {display: flex;  justify-content: center;}
+
+h2     {Width:  191px;
+        Height: 43px;
+        Top:    212px;
+        Left:   328px }
+
+.text1 {color: blue;}
+.text2 {color: black }
+.text3 { color: blue;}
+
+
